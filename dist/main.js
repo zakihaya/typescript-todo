@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("console.log('Hello');\n\n\n//# sourceURL=webpack:///./src/js/app.ts?");
+eval("console.log('Hello');\nvar userName;\nuserName = \"Tom\";\nconsole.log(userName);\nuserName = \"Ken\";\nconsole.log(userName);\nuserName = 5;\nconsole.log(userName);\nuserName = undefined;\nconsole.log(userName);\n\n\n//# sourceURL=webpack:///./src/js/app.ts?");
 
 /***/ })
 
