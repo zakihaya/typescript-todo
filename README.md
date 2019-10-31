@@ -72,3 +72,9 @@ module.exports = {
   }
 };
 ```
+
+## 実行
+
+```
+yarn dev
+```
